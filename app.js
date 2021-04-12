@@ -99,6 +99,6 @@ if(mode){
     mode.addEventListener("click",handleModeClick);
 }
 
-if(mode){
+if(saveBtn){
     saveBtn.addEventListener("click", handleSaveClick);
 }
